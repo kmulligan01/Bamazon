@@ -1,6 +1,7 @@
 # Bamazon
 
 Getting Started
+====
 Clone repo.
 Run command in Terminal or Gitbash 'npm install inquirer' and 'npm install mysql'
 Run command depending which mode you would like to be on:
@@ -49,8 +50,11 @@ BamazonManager.js (https://drive.google.com/file/d/1U2i3zWrJjnKNh8ighr0beimxeAaI
 Technologies used
 ====
 Node.js
+
 Inquire NPM Package (https://www.npmjs.com/package/inquirer)
+
 MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+
 Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Create a MYSQL database called 'Bamazon', reference bamazon.sql
