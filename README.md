@@ -1,5 +1,3 @@
-# Bamazon
-
 Getting Started
 ====
 Clone repository
