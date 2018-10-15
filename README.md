@@ -1,5 +1,7 @@
+# Bamazon
+
 Getting Started
-====
+----
 Clone repository
 
 Run both of these commands in Terminal or Gitbash:
@@ -12,7 +14,7 @@ Run the below commands to intiate the options. Each depending on which js file y
 - Manager - 'node bamazonManager.js'
 
 BamazonCustomer.js
-=====
+----
 
 Prints the products in the store.
 
@@ -25,7 +27,7 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase in Mysql database.
 
 BamazonManager.js
-====
+----
 
 Starts with a menu:
 
@@ -43,13 +45,13 @@ If the manager selects Add to Inventory, it allows the manager to select a produ
 If the manager selects Add New Product, it allows the manager to add a new product to the store.
 
 Demo Videos
-====
+----
 BamazonCustomer.js (https://drive.google.com/file/d/1aNZ4h8vFbYWmRqeXUElYR6M3NdT-JCDz/view)
 
 BamazonManager.js (https://drive.google.com/file/d/1U2i3zWrJjnKNh8ighr0beimxeAaIbFNs/view)
 
 Technologies used
-====
+----
 Node.js
 
 Inquire NPM Package (https://www.npmjs.com/package/inquirer)
@@ -61,11 +63,11 @@ Prerequisites
 - Create a MYSQL database called 'Bamazon', reference bamazon.sql
 
 Built With
-====
+---
 - Visual Studio Code
 - MySQLWorkbench
 - Terminal/Gitbash
 
 Authors
-====
+----
 Kendra Mulligan
