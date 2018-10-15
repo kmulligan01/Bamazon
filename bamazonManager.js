@@ -49,8 +49,9 @@ function currentProducts() {
         console.log("\n" + res[i].item_id + " | " + res[i].product_name + " | " + res[i].price + " | " + res[i].stock_quantity);
       }
       console.log("-----------------------------------");
+      options();
     });
-    options();
+    
 }
 
 function lowInventory(){
@@ -121,7 +122,7 @@ function addInventory(){
                 console.log("-----------------------------------");
 
                 // End the database connection
-                connection.end();
+              options();
                 });
             } 
         })
