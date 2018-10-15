@@ -2,13 +2,16 @@
 
 Getting Started
 ====
-Clone repo.
-Run command in Terminal or Gitbash 'npm install inquirer' and 'npm install mysql'
-Run command depending which mode you would like to be on:
-Customer - 'npm bamazonCustomer.js'
-Manager - 'npm run bamazonManager.js'
-Run 'ctrl + c' to exit each mode
-What Each JavaScript Does
+Clone repository
+
+Run both of these commands in Terminal or Gitbash:
+- 'npm install inquirer' and
+- 'npm install mysql'
+
+Run the below commands to intiate the options. Each depending on which js file you are currently in:
+
+- Customer - 'node bamazonCustomer.js'
+- Manager - 'node bamazonManager.js'
 
 BamazonCustomer.js
 =====
